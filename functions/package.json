@@ -1,0 +1,8 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "dependencies": {
+    "@azure/cosmos": "^3.14.2",
+    "stripe": "^10.0.0"
+  }
+}
