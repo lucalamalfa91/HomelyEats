@@ -1,6 +1,6 @@
 # HomelyEats
 
-> A “home-cooked” food-delivery marketplace built on Azure’s free tier.  
+> A “home-cooked” food-delivery marketplace.  
 > Connect home chefs with local food lovers—secure, scalable, and cost-effective.
 
 ---
